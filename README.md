@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Kemal Gül
+- I am a student in the statistics(data is everythings) department of Süleyman Demirel University.
+- Here I will share my python projects
